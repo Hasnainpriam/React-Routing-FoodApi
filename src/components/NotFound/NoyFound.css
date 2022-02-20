@@ -1,0 +1,54 @@
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+ .custom-container{ 
+     width: 800px;
+     height: 100%;
+     align-items: center;
+     text-align: center;
+ }
+ .custom-container h1{
+     
+     top: 40px;
+     color: #39ad31;
+     font-size: 5rem;
+ }
+ .custom-container .imgBx{
+     width: 800px;
+     height: 400px;
+     background: url('../Images/img.gif');
+ }
+ .custom-container .detail{
+ 
+     top: -70px;
+     color: #39ad31;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+ }
+ .custom-container .detail h3{
+     font-size: 2.5rem;
+     letter-spacing: 1px;
+     margin: 10px;
+ }
+ .custom-container .detail span{
+     text-transform: lowercase;
+     margin-bottom: 20px;
+ }
+ .custom-container .detail button{
+     width: 150px;
+     height: 50px;
+     outline: none;
+     border: none;
+     text-transform: capitalize;
+     background: gold;
+     color: black;
+     font-size: 1rem;
+     border-radius: 5px;
+ }
+ .custom-container .detail button:hover{
+     color: #39ad31;
+     background: #efefef;
+ }
