@@ -12,7 +12,6 @@
 * We can click any of the buttons on the Home page. By clicking the Menu Search button it will take us to the Search page. It will show the foods from the API matched with names. Then , if we need to see more details ,we can click the View Details. It will search the food with the ID in the Api. Then, show us the Details in new page.
 * In the About page, we will see the detailsof this project. But, you can skip it, as you have read it here.
 
-### Routing won't work , as it is hosted in Netlify
 
 * This is my very own project , without any Youtube or Google help.
 * Thanks. Hope this project helps you.
